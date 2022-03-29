@@ -16,8 +16,8 @@ Actiuni/Interogari:
 
 Obiecte:  
 	1. Utilizator  
-		a. Abonat  
-		b. Administrator/i  
+		&emsp; a. Abonat  
+		&emsp; b. Administrator/i  
 	2. Carte  
 	3. Sectiune  
 		a. Beletristica  
