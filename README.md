@@ -1,8 +1,8 @@
 # Proiect PAO
 
-Tema aleasa: Biblioteca (sectiuni, carti, autori, cititori)
+**Tema aleasa: Biblioteca (sectiuni, carti, autori, cititori)**
 
-Actiuni/Interogari:  
+&emsp; **Actiuni/Interogari:**  
 	1. Creare abonament (cititor)  
 	2. Adugare carte  
 	3. Adaugare autor  
@@ -14,26 +14,26 @@ Actiuni/Interogari:
 	9. Vizualizare carti (ce apartin unui autor)  
 	10. Vizualizare cititori (abonati)  
 
-Obiecte:  
+&emsp;**Obiecte:**    
 	1. Utilizator  
 		&emsp; a. Abonat  
 		&emsp; b. Administrator/i  
 	2. Carte  
 	3. Sectiune  
-		a. Beletristica  
-		b. Pentru copii  
-		c. Dezvoltare personala  
-		d. Manuale  
-		e. De specialitate  
+		&emsp;a. Beletristica  
+		&emsp;b. Pentru copii  
+		&emsp;c. Dezvoltare personala  
+		&emsp;d. Manuale  
+		&emsp;e. De specialitate  
 	4. Autor  
 	5. Abonament  
 
-Servicii:  
-		a. Imprumut  
-		b. Returnare   
-		c. Cerere  
-		d. Vizualizare  
-		e. Main  
+&emsp;**Servicii**   
+		&emsp;a. Imprumut  
+		&emsp;b. Returnare   
+		&emsp;c. Cerere  
+		&emsp;d. Vizualizare  
+		&emsp;e. Main  
 
 
 
