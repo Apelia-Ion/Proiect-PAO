@@ -2,38 +2,38 @@
 
 Tema aleasa: Biblioteca (sectiuni, carti, autori, cititori)
 
-Actiuni/Interogari:
-	1. Creare abonament (cititor)
-	2. Adugare carte
-	3. Adaugare autor
-	4. Adaugare sectiune
-	5. Imprumut
-	6. Returnare
-	7. Adaugare sectiune
-	8. Vizualizare carti dintr-o anumita sectiune
-	9. Vizualizare carti (ce apartin unui autor)
-	10. Vizualizare cititori (abonati)
+Actiuni/Interogari:  
+	1. Creare abonament (cititor)  
+	2. Adugare carte  
+	3. Adaugare autor  
+	4. Adaugare sectiune  
+	5. Imprumut  
+	6. Returnare  
+	7. Adaugare sectiune  
+	8. Vizualizare carti dintr-o anumita sectiune  
+	9. Vizualizare carti (ce apartin unui autor)  
+	10. Vizualizare cititori (abonati)  
 
-Obiecte:
-	1. Utilizator
-		a. Abonat
-		b. Administrator/i
-	2. Carte
-	3. Sectiune
-		a. Beletristica
-		b. Pentru copii
-		c. Dezvoltare personala
-		d. Manuale
-		e. De specialitate
-	4. Autor
-	5. Abonament
+Obiecte:  
+	1. Utilizator  
+		a. Abonat  
+		b. Administrator/i  
+	2. Carte  
+	3. Sectiune  
+		a. Beletristica  
+		b. Pentru copii  
+		c. Dezvoltare personala  
+		d. Manuale  
+		e. De specialitate  
+	4. Autor  
+	5. Abonament  
 
-Servicii:
-		a. Imprumut
-		b. Returnare
-		c. Cerere
-		d. Vizualizare
-		e. Main
+Servicii:  
+		a. Imprumut  
+		b. Returnare   
+		c. Cerere  
+		d. Vizualizare  
+		e. Main  
 
 
 
