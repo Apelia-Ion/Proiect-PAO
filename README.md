@@ -2,6 +2,43 @@
 
 Tema aleasa: Biblioteca (sectiuni, carti, autori, cititori)
 
+Actiuni/Interogari:
+	1. Creare abonament (cititor)
+	2. Adugare carte
+	3. Adaugare autor
+	4. Adaugare sectiune
+	5. Imprumut
+	6. Returnare
+	7. Adaugare sectiune
+	8. Vizualizare carti dintr-o anumita sectiune
+	9. Vizualizare carti (ce apartin unui autor)
+	10. Vizualizare cititori (abonati)
+
+Obiecte:
+	1. Utilizator
+		a. Abonat
+		b. Administrator/i
+	2. Carte
+	3. Sectiune
+		a. Beletristica
+		b. Pentru copii
+		c. Dezvoltare personala
+		d. Manuale
+		e. De specialitate
+	4. Autor
+	5. Abonament
+
+Servicii:
+		a. Imprumut
+		b. Returnare
+		c. Cerere
+		d. Vizualizare
+		e. Main
+
+
+
+Cerinte proiect:
+
 Fiecare student va lucra la un proiect individual. Proiectul este structurat în mai multe etape. Condiția de punctare a proiectelor:
 • să nu prezinte erori de compilare
 • să se implementeze cerințele date
@@ -36,4 +73,6 @@ Etapa III
 Înlocuiți serviciile realizate în etapa a II-a cu servicii care sa asigure persistenta utilizând baza de date folosind JDBC.
 Să se realizeze servicii care sa expună operații de tip create, read, update si delete pentru cel puțin 4 dintre clasele definite.
 
+Barem Etapa 1:
+![image](https://user-images.githubusercontent.com/79162778/160544021-b751fdcb-b6d1-40e4-9a08-4f0d494a13e2.png)
 
