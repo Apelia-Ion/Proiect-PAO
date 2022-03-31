@@ -2,38 +2,42 @@
 
 **Tema aleasa: Biblioteca (sectiuni, carti, autori, cititori)**
 
-&emsp; **Actiuni/Interogari:**  
-	1. Creare abonament (cititor)  
-	2. Adugare carte  
-	3. Adaugare autor  
-	4. Adaugare sectiune  
-	5. Imprumut  
-	6. Returnare  
-	7. Adaugare sectiune  
-	8. Vizualizare carti dintr-o anumita sectiune  
-	9. Vizualizare carti (ce apartin unui autor)  
-	10. Vizualizare cititori (abonati)  
+Tema aleasa: Biblioteca (sectiuni, carti, autori, cititori)
 
-&emsp;**Obiecte:**    
-	1. Utilizator  
-		&emsp; a. Abonat  
-		&emsp; b. Administrator/i  
-	2. Carte  
-	3. Sectiune  
-		&emsp;a. Beletristica  
-		&emsp;b. Pentru copii  
-		&emsp;c. Dezvoltare personala  
-		&emsp;d. Manuale  
-		&emsp;e. De specialitate  
-	4. Autor  
-	5. Abonament  
+Actiuni/Interogari:
+1.	Creare cont abonat
+2.	Suspendare/inchidere cont abonat
+3.	Adaugare carte
+4.	Adaugare autor
+5.	Adaugare sectiune
+6.	Vizualizare carti dintr-o anumita sectiune
+7.	Vizualizare carti (ce apartin unui autor)
+8.	Vizualizare cititori (abonati)
+9.	Imprumut
+10.	Rezervare
+11.	Returnare
+12.	Vizualizare istoric imprumuturi ale unui abonat
 
-&emsp;**Servicii**   
-		&emsp;a. Imprumut  
-		&emsp;b. Returnare   
-		&emsp;c. Cerere  
-		&emsp;d. Vizualizare  
-		&emsp;e. Main  
+ Obiecte:
+1.	Biblioteca (singleton)
+2.	Autor
+3.	Adresa
+4.	Persoana
+5.	Cont
+a.	Abonat
+b.	Administrator
+6.	Sectiune
+7.	Carte
+a.	Exemplar
+8.	Catalog (pentru vizaulizari carti)
+
+ Servicii
+a.	 Imprumut
+b.	 Returnare
+c.	 Rezervare
+d.	 Vizualizari (dupa sectiune, autor, vizualizare abonati, imprumuturi abonat)
+
+ 
 
 
 
