@@ -2,8 +2,6 @@
 
 **Tema aleasa: Biblioteca (sectiuni, carti, autori, cititori)**
 
-Tema aleasa: Biblioteca (sectiuni, carti, autori, cititori)
-
 Actiuni/Interogari:
 1.	Creare cont abonat
 2.	Suspendare/inchidere cont abonat
@@ -31,11 +29,11 @@ b.	Administrator
 a.	Exemplar
 8.	Catalog (pentru vizaulizari carti)
 
- Servicii
-a.	 Imprumut
-b.	 Returnare
-c.	 Rezervare
-d.	 Vizualizari (dupa sectiune, autor, vizualizare abonati, imprumuturi abonat)
+ Servicii  
+a.	 Imprumut  
+b.	 Returnare  
+c.	 Rezervare  
+d.	 Vizualizari (dupa sectiune, autor, vizualizare abonati, imprumuturi abonat)  
 
  
 
